@@ -1,0 +1,90 @@
+h1 { 
+    color:black; 
+    text-align: center;  
+    padding-top: 30px;   
+    font-family: 'Kufam', cursive;      
+   font-size: 50px;
+   font-weight: bold;
+} 
+
+h2 { 
+    color:white; 
+    text-align: center;  
+} 
+
+body { 
+   background:black; 
+   opacity: 0.8; 
+} 
+
+.bannerPrincipal {
+   background-color: white;
+   margin-left: 30px;
+   margin-right: 30px;   
+   padding-bottom: 30px;
+}
+.bannerSecundario {    
+    margin-left: 30px;
+    margin-right: 30px;   
+    padding-bottom: 30px;
+ }
+
+ .bannerbotton{
+    text-align: right;
+   margin-left: 30px;
+   margin-right: 30px; 
+ }
+
+.banner1  {
+    background-color: blue;
+   margin-left: 120px;
+   display: inline-block;
+   width: 300px;
+}
+.banner2 {   
+    text-align: center;
+    vertical-align: top;   
+    margin-left: 30px;
+    display: inline-block;
+    width: 300px;
+    font-family: 'Kufam', cursive;
+ }
+ .banner3 {
+    background-color: blue;
+    margin-left: 30px;
+    display: inline-block;
+    width: 300px;
+ }
+ .cancion1 {    
+    margin-left: 120px;
+    text-align: center;
+    display: inline-block;
+    width: 300px;
+    border: double;
+    border-color: white;
+ }
+ .cancion2 {    
+    margin-left: 30px; 
+    text-align: center;   
+    display: inline-block;
+    width: 300px;
+    border: double;
+    border-color: white;
+
+ }
+ .cancion3 {    
+    margin-left: 30px;
+    text-align: center;
+    display: inline-block;
+    width: 320px;    
+    border: double;
+    border-color: white;
+ }
+
+ .textBottom {  
+    color: white;
+    font-family: 'Kufam', cursive;
+}
+
+ 
+

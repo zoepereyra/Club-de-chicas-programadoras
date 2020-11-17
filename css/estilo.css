@@ -1,0 +1,79 @@
+body {
+	background: #c35ec1 !important
+	
+
+	;
+}
+
+.logo
+{
+
+height:150px; width:150px;
+
+}
+
+p {
+	color: red;
+	font-family: cursive;
+	font-size: 20px;
+
+}
+.datoTitulo{
+	font-size: 20px;
+	color: pink;
+	font-family: 'Ranchers', cursive;
+}
+#campoDireccion:focus {
+	background: black;
+	color: pink;
+}
+
+.centrado{
+  margin-left: auto;
+  margin-right: auto;
+}
+.bajo{
+	
+	width: auto; height:150px
+
+}
+
+
+ h1 {					
+color: pink;		
+				text-align: center;
+}
+
+
+article.rojo{
+
+font-family: monospace;
+	color:blue;
+	background: #000;
+
+
+}
+ol {
+	font-family: monospace;
+	color: red;
+}
+ul {
+	font-family: serif;
+	color: blue;
+	background: #000;
+	display:block;
+}
+article{
+font-family: arial;
+	color:red;
+	background: #ccc;
+
+}
+
+
+li {
+
+	font-family: serif;
+	color:pink;
+	background: #ffc0cb;
+}
